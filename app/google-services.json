@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146358120689",
+    "project_id": "cloud-ass1-7ae28",
+    "storage_bucket": "cloud-ass1-7ae28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146358120689:android:f60808945f6dbb7b043950",
+        "android_client_info": {
+          "package_name": "com.example.cloud_ass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146358120689-anla792vbb93km673paspjqlg7c1eh0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCN8CRDW_tn93kYYZ2jktW0eOeF381Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146358120689-anla792vbb93km673paspjqlg7c1eh0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
